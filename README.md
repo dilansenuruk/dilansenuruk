@@ -9,7 +9,6 @@
 <br/>
 <p align="left">
   <a href="https://www.torrinleonard.com/">
-    <img width="56.5%" src="https://github-readme-stats.vercel.app/api?username=dilansenuruk&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
     <img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torrinworx&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
