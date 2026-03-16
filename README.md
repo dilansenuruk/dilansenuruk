@@ -9,8 +9,8 @@
 <br/>
 <p align="left">
   <a href="https://www.torrinleonard.com/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=dilansenuruk&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=dilansenuruk&theme=radical&hide_border=true">		  
+    <img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=dilansenuruk&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="50.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=dilansenuruk&theme=radical&hide_border=true">		  
   </a>
 </p>
 <br>
